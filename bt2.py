@@ -27,8 +27,8 @@ except ImportError:
     print "[!] Module 'telepot' not found. Please install it before continuing."
     sys.exit(-1)
 
-API_TOKEN = 'YOUR_API_KEY_HERE'
-BOTMASTER_ID = 00000000
+API_TOKEN = '355197331:AAFqfX5ThSmQvAGYTm5Ppn0oezFX9sZgDHA'
+BOTMASTER_ID = 242361127
 VERBOSE = True
 
 bot = telepot.Bot(API_TOKEN)
